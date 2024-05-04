@@ -100,7 +100,7 @@ public class EmployeeController {
 		// assign result to model
 		model.addAttribute("employees", employees);
 		
-		return "/employees/list-employees";
+		return "employees/list-employees";
 		
 	}
 	
