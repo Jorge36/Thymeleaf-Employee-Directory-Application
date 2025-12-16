@@ -1,6 +1,6 @@
 # Thymeleaf Employee Directory Application
 I used:
-1. Spring Boot frameword
+1. Spring Boot framework
 2. Thymeleaf engine
 3. JPA
 4. Spring MVC (Model-View-Controller)
